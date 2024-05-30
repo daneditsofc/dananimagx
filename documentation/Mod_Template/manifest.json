@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "DAN ANIMA MOD FOR GX",
+    "description": "subscribe on my channel",
     "developer":
     {
         "name": "DEVELOPER NAME GOES HERE"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "dananima7095.jpeg"
     },
     "manifest_version": 3,
     "mod":
