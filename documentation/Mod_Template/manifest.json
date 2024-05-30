@@ -7,7 +7,7 @@
     },
     "icons":
     {
-        "512": "dananima7095.jpeg"
+        "512": "dananima7095.jpg"
     },
     "manifest_version": 3,
     "mod":
@@ -170,8 +170,7 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "wallpaper/DanAnimafundo.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
